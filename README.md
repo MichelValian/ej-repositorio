@@ -1,4 +1,4 @@
 # Repositorio de ejemplo
 ## Subtitulo
 
-Ejemplo 1 de repositorio 16-05-23
+Ejemplo 1 del repositorio 16-05-23

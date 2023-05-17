@@ -1,4 +1,4 @@
 
 ## V0.0
 
--Inicio de repositorio
+-Inicio del repositorio
